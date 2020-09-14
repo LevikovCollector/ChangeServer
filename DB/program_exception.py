@@ -1,0 +1,2 @@
+class CreateDataExc(Exception):
+    pass
